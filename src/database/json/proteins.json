@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Chasu",
+    "description": "A sliced flavourful pork meat with a selection of season vegetables.",
+    "price": 10
+  },
+  {
+    "id": "2",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Grilled Chicken Breast",
+    "description": "Tender grilled chicken breast seasoned to perfection, served with a side of fresh vegetables.",
+    "price": 12
+  },
+  {
+    "id": "3",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Pan-Seared Salmon",
+    "description": "Fresh Atlantic salmon fillet, pan-seared and served with a citrus-infused sauce.",
+    "price": 15
+  },
+  {
+    "id": "4",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Grilled Beef Steak",
+    "description": "Juicy beef steak grilled to your liking, served with roasted vegetables and a red wine reduction sauce.",
+    "price": 18
+  },
+  {
+    "id": "5",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Stir-Fried Tofu",
+    "description": "Crispy tofu stir-fried with mixed vegetables in a savory soy-based sauce.",
+    "price": 11
+  },
+  {
+    "id": "6",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Roast Turkey Breast",
+    "description": "Tender slices of roast turkey breast served with mashed potatoes and gravy.",
+    "price": 14
+  }
+]

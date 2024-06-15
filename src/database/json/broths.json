@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Salt",
+    "description": "Simple like the seawater, nothing more",
+    "price": 10
+  },
+  {
+    "id": "2",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Pepper",
+    "description": "Spicy like a fiery kick, just enough",
+    "price": 12
+  },
+  {
+    "id": "3",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Onion",
+    "description": "Strong and flavorful, a kitchen essential",
+    "price": 8
+  },
+  {
+    "id": "4",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Garlic",
+    "description": "Pungent and aromatic, the heart of many dishes",
+    "price": 9
+  },
+  {
+    "id": "5",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Parsley",
+    "description": "Fresh and herbaceous, adds a green touch",
+    "price": 7
+  },
+  {
+    "id": "6",
+    "imageInactive": "https://example.com/inactive.svg",
+    "imageActive": "https://example.com/active.svg",
+    "name": "Cilantro",
+    "description": "Bright and citrusy, enhances many cuisines",
+    "price": 6
+  }
+]
